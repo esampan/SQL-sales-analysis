@@ -8,3 +8,12 @@ SQL portfolio focused on e-commerce data analysis using BigQuery. Includes proje
 
 ### City Analysis
 ![City Result](city.PNG)
+
+
+## SQL Queries
+
+### Category Analysis Query
+[View SQL Code](category.sql)
+
+### City Analysis Query
+[View SQL Code](city.sql)
