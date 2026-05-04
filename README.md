@@ -3,7 +3,7 @@ SQL portfolio focused on e-commerce data analysis using BigQuery. Includes proje
 
 ## Category Analysis
 
-###  🎯 Objective
+###  📝 Objective
 Analyze which product categories generate the highest total sales.
 
 ###  SQL Query
@@ -46,7 +46,7 @@ LIMIT 10;
 
 ## City Analysis
 
-###  🎯 Objective
+###  📝 Objective
 Identify which cities generate the highest sales.
 
 ###  🛠️ SQL Query
