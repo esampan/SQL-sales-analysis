@@ -3,13 +3,13 @@ SQL portfolio focused on e-commerce data analysis using BigQuery. Includes proje
 
 ## Category Analysis
 
-### 🔹 Objective
+###  Objective
 Analyze which product categories generate the highest total sales.
 
-### 📌 SQL Query
+###  SQL Query
 [View Category SQL](category.sql)
 
-### 📌 SQL Query
+###  SQL Query
 ```sql
 -- WITH orders_products AS (
     SELECT order_items.product_id, price, freight_value, products.product_category_name
@@ -35,10 +35,10 @@ LIMIT 10;
 
 ---
 
-### 📊 Result
+###  Result
 ![Category Result](category_results.PNG)
 
-### 🔍 Insight
+###  Insight
 - Top categories contribute the majority of total revenue
 - Helps identify which products drive business performance
 
@@ -46,13 +46,13 @@ LIMIT 10;
 
 ## City Analysis
 
-### 🔹 Objective
+###  Objective
 Identify which cities generate the highest sales.
 
-### 📌 SQL Query
+###  SQL Query
 [View City SQL](city.sql)
 
-### 📌 SQL Query
+###  SQL Query
 ```sql
 WITH customer_orders AS (
   SELECT 
@@ -81,10 +81,10 @@ WITH customer_orders AS (
 FROM city_totals;
 ```
 
-### 📊 Result
+###  Result
 ![City Result](city.PNG)
 
-### 🔍 Insight
+###  Insight
 - Certain cities dominate overall sales
 - Useful for targeting marketing and logistics strategies
 
