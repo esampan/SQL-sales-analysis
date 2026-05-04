@@ -32,6 +32,7 @@ FROM category_price
 WHERE category IS NOT NULL
 LIMIT 10;
 
+---
 
 ### 📊 Result
 ![Category Result](category_results.PNG)
