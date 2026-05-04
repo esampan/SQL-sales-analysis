@@ -31,6 +31,7 @@ ROUND (total_price / SUM(total_price) OVER () * 100,2) AS percentage_of_total
 FROM category_price
 WHERE category IS NOT NULL
 LIMIT 10;
+```
 
 ---
 
