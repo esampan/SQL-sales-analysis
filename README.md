@@ -18,7 +18,7 @@ These tables were combined using SQL joins to perform analysis on sales performa
 
 ## Category Analysis
 
-###  📝 Objective
+###  ✨ Objective
 Analyze which product categories generate the highest total sales.
 
 ###  SQL Query
@@ -61,7 +61,7 @@ LIMIT 10;
 
 ## City Analysis
 
-###  📝 Objective
+###  ✨ Objective
 Identify which cities generate the highest sales.
 
 ###  🛠️ SQL Query
