@@ -1,6 +1,21 @@
 # SQL-sales-analysis
 SQL portfolio focused on e-commerce data analysis using BigQuery. Includes projects on sales trends, customer insights, and performance analysis.
 
+## 📝 Dataset
+
+This project uses the Brazilian e-commerce dataset "Olist" sourced from Kaggle. 
+
+The dataset consists of multiple CSV files containing information about:
+- customers
+- orders
+- order payments
+- products
+- sellers
+- geographic data
+- product categories (including English translations)
+
+These tables were combined using SQL joins to perform analysis on sales performance and regional trends.
+
 ## Category Analysis
 
 ###  📝 Objective
