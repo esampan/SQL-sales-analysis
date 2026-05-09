@@ -16,7 +16,7 @@ The dataset consists of multiple CSV files containing information about:
 
 These tables were combined using SQL joins to perform analysis on sales performance and regional trends.
 
-## • Category Analysis
+## 🔴 Category Analysis
 
 ###  Objective
 Analyze which product categories generate the highest total sales.
@@ -59,7 +59,7 @@ LIMIT 10;
 
 ---
 
-## • City Analysis
+## 🔴 City Analysis
 
 ###   Objective
 Identify which cities generate the highest sales.
